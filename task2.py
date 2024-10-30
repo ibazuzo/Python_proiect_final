@@ -59,6 +59,4 @@ print(popular_products)
 
 
 # Recenzii si satisfactia clientilor
-
-
 # Top 5 clienti fideli
