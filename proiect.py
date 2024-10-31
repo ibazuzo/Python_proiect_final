@@ -32,13 +32,3 @@ plot.grid()
 plot.show()
 
 #grafic tip bara
-# query_reviews = 'SELECT * FROM reviews'
-# reviews = pandas.read_sql(query_reviews, my_db)
-# print(reviews)
-# # df = pd.DataFrame(reviews)
-# fig, axs = plot.subplots(nrows=2, ncols=2, figsize=(10, 8))
-# df.plot.bar(x='An', y='customer_id', ax=axs[0, 1], color='g', alpha=0.7, label='customer_id(bara')
-# axs[0, 1].set_title('Recenziile clientilor')
-# axs[1, 0].set_visible(False)
-# axs[1, 1].set_visible(False)
-# plot.show()
